@@ -1,0 +1,10 @@
+** BUILD FAILED **
+
+
+The following build commands failed:
+	CompileC /Users/macintosh/Library/Developer/Xcode/DerivedData/gamechat-gfmbbjzmmcfcxzaenamsqdqwoket/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RNSVG.build/Objects-normal/x86_64/RNSVGClipPathManager.o /Users/macintosh/Downloads/gamechat/node_modules/react-native-svg/apple/ViewManagers/RNSVGClipPathManager.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'RNSVG' from project 'Pods')
+	CompileC /Users/macintosh/Library/Developer/Xcode/DerivedData/gamechat-gfmbbjzmmcfcxzaenamsqdqwoket/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RNSVG.build/Objects-normal/x86_64/RNSVGCircleManager.o /Users/macintosh/Downloads/gamechat/node_modules/react-native-svg/apple/ViewManagers/RNSVGCircleManager.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'RNSVG' from project 'Pods')
+	CompileC /Users/macintosh/Library/Developer/Xcode/DerivedData/gamechat-gfmbbjzmmcfcxzaenamsqdqwoket/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RNSVG.build/Objects-normal/x86_64/RNSVGFontData.o /Users/macintosh/Downloads/gamechat/node_modules/react-native-svg/apple/Text/RNSVGFontData.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'RNSVG' from project 'Pods')
+	CompileC /Users/macintosh/Library/Developer/Xcode/DerivedData/gamechat-gfmbbjzmmcfcxzaenamsqdqwoket/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RNSVG.build/Objects-normal/x86_64/RNSVGDefsManager.o /Users/macintosh/Downloads/gamechat/node_modules/react-native-svg/apple/ViewManagers/RNSVGDefsManager.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'RNSVG' from project 'Pods')
+	Building workspace gamechat with scheme gamechat and configuration Debug
+(5 failures)

@@ -1,4 +1,8 @@
 {
-  "name": "gamechat",
-  "displayName": "gamechat"
+  "expo": {
+    "name": "gamechat",
+    "slug": "gamechat",
+    "sdkVersion": "53.0.0",
+    "jsEngine": "jsc"
+  }
 }
