@@ -14,7 +14,7 @@ import {
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 const API_KEY = '4umujg35b2ks';
-const USER_ID = 'david';
+const USER_ID = 'gamechat';
 const chatClient = StreamChat.getInstance(API_KEY);
 const Stack = createNativeStackNavigator();
 
